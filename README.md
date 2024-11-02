@@ -64,9 +64,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-## Accuracy
-![image](https://github.com/user-attachments/assets/cc1bd304-8cdf-435b-b452-a16352df1a49)
-## Predicted
+
+## Accuracy&Predicted
 ![image](https://github.com/user-attachments/assets/181bb4ea-caac-409e-9358-1289b639b7c3)
 
 
