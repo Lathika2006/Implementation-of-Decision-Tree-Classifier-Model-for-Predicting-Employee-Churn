@@ -9,15 +9,15 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 
-Import the required libraries.
+Load and inspect the dataset (Employee.csv) to understand its structure and check for missing values.
 
-Upload and read the dataset.
+Encode categorical variables, such as "salary," to prepare the data for modeling.
 
-Check for any null values using the isnull() function.
+Split the data into training and testing sets with an 80-20 ratio.
 
-From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
+Train a DecisionTreeClassifier using the "entropy" criterion on the training data.
 
-Find the accuracy of the model and predict the required values by importing the required module from sklearn.
+Evaluate model accuracy and make predictions on test data and a sample input.
 ## Program:
 ```
 /*
